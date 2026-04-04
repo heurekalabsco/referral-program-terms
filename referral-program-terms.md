@@ -2,7 +2,7 @@ Heureka Labs Referral Program
 
 Terms & Conditions
 
-Effective Date: April 2, 2026 Last Updated: April 2, 2026
+Effective Date: April 2, 2026 Last Updated: April 4, 2026
 These Referral Program Terms & Conditions ("Referral Terms") are incorporated into and governed by the Heureka Labs, Inc. Terms of Service, End User License Agreement, and Privacy Policy (“General Agreements”). Capitalized terms not defined herein have the meanings given in the General Agreements. By participating in the Referral Program, you agree to these Referral Terms in their entirety. In the event of a conflict between these Referral Terms and the General Agreements, these Referral Terms shall control with respect to the Referral Program.
 
 1. Program Overview
@@ -39,7 +39,7 @@ For the avoidance of doubt, a user who holds an existing Platform account but ha
 4.1 Generation. Eligible Referrers may generate a unique alphanumeric referral code ("Referral Code") through their account dashboard. Each Referrer account is assigned one (1) active Referral Code at a time.
 4.2 Nature of the Code. Referral Codes are associated with the Referrer's account and may not be sold, auctioned, bartered, or otherwise commercially transferred for value.
 4.3 Permitted Sharing. Referrers may share their Referral Code through any channel, including personal communications, social media, and third-party coupon or discount aggregator websites and browser extension platforms. All sharing must comply with applicable law and these Referral Terms.
-4.4 Required Disclosures for Public Sharing. Where a Referrer shares their Referral Code in any public-facing medium — including but not limited to social media posts, blog articles, videos, podcasts, public forums, review platforms, newsletters, and third-party coupon or deal websites — and the Referrer receives or expects to receive a Referral Bonus as a result, the Referrer must include a clear and conspicuous disclosure of this material connection. Such disclosure must:
+4.4 Required Disclosures for Public Sharing. Where a Referrer shares their Referral Code in any public-facing medium, including but not limited to social media posts, blog articles, videos, podcasts, public forums, review platforms, newsletters, and third-party coupon or deal websites, and the Referrer receives or expects to receive a Referral Bonus as a result, the Referrer must include a clear and conspicuous disclosure of this material connection. This obligation applies regardless of the platform on which sharing occurs and regardless of whether the Referrer considers their account "commercial.” Such disclosure must:
 (a) Be placed in close proximity to the Referral Code and readily noticeable to the average viewer or reader before they engage with the content;
 (b) Use plain, unambiguous language such as: "I may earn bonus credits if you use this referral code" or "Referral link — I receive a bonus if you make a purchase using this code"; and
 (c) Comply with the U.S. Federal Trade Commission's Guides Concerning the Use of Endorsements and Testimonials in Advertising (16 C.F.R. Part 255) and any equivalent regulations applicable in the Referrer's jurisdiction.
@@ -65,7 +65,7 @@ Example: A Referred Customer purchases 50,000 in Base Credits. The Referrer's Re
 
 6. Prohibited Conduct & Anti-Fraud
 6.1 Prohibited Activities. The following conduct is strictly prohibited and constitutes grounds for immediate disqualification from the Referral Program, forfeiture of all accrued and pending Referral Bonuses, and potential suspension or permanent termination of your account, including forfeiture of existing Credit balances pursuant to the General Agreements:
-(a) Self-Referral. Using your own Referral Code, directly or indirectly, to obtain the New Customer Discount, including through the use of a secondary, duplicate, or otherwise inauthentic account;
+(a) Self-Referral. Using your own Referral Code, directly or indirectly, to obtain the New Customer Discount, including through the use of a secondary, duplicate, or otherwise inauthentic account or through others’ accounts acting at the Referrer’s direction;
 (b) Fictitious or Duplicate Accounts. Creating, operating, directing, or facilitating the creation of fake, duplicate, or otherwise inauthentic user accounts for the purpose of generating Referral Bonuses or New Customer Discounts;
 (c) Coordinated Abuse. Participating in any scheme, arrangement, or agreement — including reciprocal referral exchanges or attempts to redeem multiple Referral Codes from different Referrers across multiple transactions — designed to artificially generate qualifying transactions or Referral Bonuses;
 (d) Fraudulent Transactions. Using stolen, fraudulent, unauthorized, or artificially funded payment methods in connection with any qualifying purchase;
@@ -76,6 +76,7 @@ Example: A Referred Customer purchases 50,000 in Base Credits. The Referrer's Re
 
 7. Taxes
 7.1 User Responsibility. You are solely responsible for all federal, state, local, and foreign tax obligations arising from your receipt of Referral Bonuses. Company makes no representations regarding the tax treatment of Referral Bonuses in any jurisdiction, and nothing in these Referral Terms constitutes tax advice. You are encouraged to consult a qualified tax professional regarding your individual tax obligations.
+7.2 Information Requests. Company reserves the right to request tax identification information from Referrers whose aggregate Referral Bonuses exceed applicable IRS reporting thresholds in a calendar year, and Referrers agree to provide such information upon request.
 
 8. Program Modifications & Termination
 8.1 Modification. We reserve the right to modify, suspend, or terminate the Referral Program, or to amend these Referral Terms, at any time and for any reason, with or without notice. Changes will be effective upon posting to the Platform. Your continued participation following any modification constitutes acceptance of the updated Referral Terms.
@@ -89,7 +90,7 @@ Example: A Referred Customer purchases 50,000 in Base Credits. The Referrer's Re
 
 10. General Provisions
 10.1 Governing Law. These Referral Terms shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law principles.
-10.2 Dispute Resolution. Any disputes arising under or relating to these Referral Terms shall be resolved in accordance with the dispute resolution and arbitration provisions set forth in the General Agreements.
+10.2 Dispute Resolution. Users can contact support@heurekalabs.co with any questions or concerns about the Referral Program. Any disputes arising under or relating to these Referral Terms shall be resolved in accordance with the dispute resolution and arbitration provisions set forth in the General Agreements.
 10.3 Severability. If any provision of these Referral Terms is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
 10.4 Waiver. Failure by Company to enforce any provision of these Referral Terms shall not constitute a waiver of our right to enforce such provision in the future.
 10.5 Entire Agreement. These Referral Terms, together with the General Agreements, constitute the entire agreement between you and Company with respect to the Referral Program and supersede all prior understandings relating thereto.
